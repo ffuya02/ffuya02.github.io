@@ -1,0 +1,80 @@
+body
+{
+    background-image: url(https://scontent.fdvo1-1.fna.fbcdn.net/v/t1.15752-9/376563979_7311699622177951_4051777924060348658_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGsPSJ7Ut4Xk6j7vyoWX4vaKSbKxlQ96cgpJsrGVD3pyPryqe6SKkeuGVR6qLGX4E6xyn4iZLNBEDRw3L2F8cYu&_nc_ohc=H6B9qD1P-eUAX-JO2Dx&_nc_ht=scontent.fdvo1-1.fna&oh=03_AdR7Q-QkemtU4Dr3lWI7p-sCrwh5iPOIuRq-9NanVsB1Jg&oe=652BD378);
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+.pfp{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BN2Q0OWJmNWYtYzBiNy00ODAyLWI2NGQtZGFhM2VjOWM5NDNkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg);
+    border-style: solid;
+    border-color: white;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    height: 130px;
+    width: 130px;
+}
+.profile{
+    background-color: #f1c2e2;
+    color: #ffffff;
+    margin: 0%;
+    padding: 20px 20px 0px 20px;
+}
+.resume {
+    width: 90%;
+    margin: 0 auto;
+}
+.header {
+    text-align: center;
+    border-style: solid;
+    border-color:  rgb(234, 219, 235);
+    border-radius: 12px;
+    background-color: rgb(255, 213, 244);
+    color: #ffffff;
+    padding: 1px 20px 20px 20px;
+}
+.contact-info {
+    border-style: solid;
+    border-color: rgb(193, 211, 203);
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.section1 {
+    border-style: solid;
+    border-color: rgb(193, 211, 203);
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.section2 {
+    border-style: solid;
+    border-color: rgb(193, 211, 203);
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.skills {
+    border-style: solid;
+    border-color: rgb(193, 211, 203);
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.cont1{
+    background-color: rgb(245, 234, 242);
+    margin-top: 20px;
+    width: 400px;
+    border: solid;
+    border-radius: 12px;
+    border-color: rgb(234, 219, 235);
+    padding: 10px 10px;
+
+}
+
+.card1{
+    display:inline ;
+}
+.card2{
+    display:inline ;
+}
+.card3{
+    display:inline ;
+}

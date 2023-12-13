@@ -1,0 +1,65 @@
+body
+{
+    background-image: url(https://cdn11.bigcommerce.com/s-hv21hhsv/images/stencil/1280x1280/products/34635/234247/G56669__71407.1666066004.jpg?c=2);
+    background-repeat: repeat-y repeat-x;
+    background-attachment: fixed;
+    background-size: 28%;
+}
+
+.Accept{
+    background-color: rgb(252, 201, 243);
+    border: none;
+    width: 60px;
+    height: 25px;
+    color: rgb(255, 255, 255);
+    border-radius: 2px;
+}
+.Cancel{
+    border: none;
+    width: 60px;
+    background-color: rgb(252, 201, 243);
+    height: 25px;
+    color: rgb(255, 152, 152);
+    border-radius: 2px;
+}
+.pFont{
+    color: rgb( 0,0,0);
+}
+.cre{
+    color: rgb( 0,0,0);
+}
+.Accept:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.Accept:active{
+    opacity: 0.5;
+}
+.Cancel:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.Cancel:active{
+    opacity: 0.5;
+}
+.cont{
+    background-color: rgb(254, 209, 243);
+    margin-left: 460px;
+    margin-top: 124px;
+    width: 400px;
+    border: solid;
+    border-radius: 12px;
+    border-color: rgb(235, 191, 237);
+    padding: 10px 10px;
+}
+.card1{
+    background-color: rgb(251, 224, 253);
+    width: 200px;
+    padding:10px 20px;
+    text-align: center;
+    margin: 50px 100px;
+    border-radius: 4px;
+}
+.cont2{
+    display: flex;
+}
