@@ -1,0 +1,1 @@
+# ffuya02.github.oi
